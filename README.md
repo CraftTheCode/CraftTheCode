@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning microservices with java
 - 📫 How to reach me ... <divyanshu08jan@outlook.com / divyanshu08jan@gmail.com>
 
-<!---
 Welcome to My GitHub Profile
 About Me
 Hello, I'm Divyanshu, an aspiring developer on a journey to master Microservices with Java. This GitHub repository is my coding playground where I'm actively learning and preparing to create exciting projects that reflect my growing skills and knowledge in this fascinating field.
@@ -20,4 +19,3 @@ Get in Touch
 I'm always open to connecting with fellow developers, sharing knowledge, and collaborating on exciting projects. Feel free to connect with me on LinkedIn to stay updated on my progress.
 
 Thank you for visiting, and let's learn and grow together in the world of Microservices and Java development!
---->
